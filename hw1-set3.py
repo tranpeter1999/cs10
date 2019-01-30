@@ -36,6 +36,9 @@ print("The profit/loss is ${:12,.2f}".format(saleAmount - brokerSaleCommission -
 ##The amount of money you sold for is $  359,200.00
 ##The amount of commission paid to broker for sale is $   14,368.00
 ##The profit/loss is $   -7,936.00
+##
+##
+##Press enter to quit the program
 
 ##run2
 ##Enter Stock name: Apple
@@ -49,6 +52,9 @@ print("The profit/loss is ${:12,.2f}".format(saleAmount - brokerSaleCommission -
 ##The amount of money you sold for is $   15,597.00
 ##The amount of commission paid to broker for sale is $    1,091.79
 ##The profit/loss is $   10,735.60
+##
+##
+##Press enter to quit the program
 
 ##run3
 ##Enter Stock name: Jagex Ltd.
@@ -62,6 +68,9 @@ print("The profit/loss is ${:12,.2f}".format(saleAmount - brokerSaleCommission -
 ##The amount of money you sold for is $       89.85
 ##The amount of commission paid to broker for sale is $        3.59
 ##The profit/loss is $     -100.79
+##
+##
+##Press enter to quit the program
 
 ##run4
 ##Enter Stock name: Microfirm
@@ -75,6 +84,9 @@ print("The profit/loss is ${:12,.2f}".format(saleAmount - brokerSaleCommission -
 ##The amount of money you sold for is $    7,132.07
 ##The amount of commission paid to broker for sale is $      356.60
 ##The profit/loss is $       73.12
+##
+##
+##Press enter to quit the program
 
 ##run5
 ##Enter Stock name: Amazone
@@ -88,3 +100,6 @@ print("The profit/loss is ${:12,.2f}".format(saleAmount - brokerSaleCommission -
 ##The amount of money you sold for is $1,442,900.00
 ##The amount of commission paid to broker for sale is $  129,861.00
 ##The profit/loss is $1,178,969.00
+##
+##
+##Press enter to quit the program

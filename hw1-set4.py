@@ -28,6 +28,9 @@ print("{:20}+{:19,.2f}".format("Tax:",taxAmt));
 print("\n" + " "*20 + "-"*20);
 print("{:20}${:19,.2f}".format("Total amount:",totalAmt));
 
+#termination
+print("\n\nPress enter to quit the program");
+
 ##run1
 ##Enter amount sold: 80
 ##Enter item cost: $100
@@ -47,6 +50,9 @@ print("{:20}${:19,.2f}".format("Total amount:",totalAmt));
 ##
 ##                    --------------------
 ##Total amount:       $           8,208.00
+##
+##
+##Press enter to quit the program
 
 ##run2
 ##Enter amount sold: 12
@@ -67,6 +73,9 @@ print("{:20}${:19,.2f}".format("Total amount:",totalAmt));
 ##
 ##                    --------------------
 ##Total amount:       $             143.42
+##
+##
+##Press enter to quit the program
 
 ##run3
 ##Enter amount sold: 10000
@@ -87,6 +96,9 @@ print("{:20}${:19,.2f}".format("Total amount:",totalAmt));
 ##
 ##                    --------------------
 ##Total amount:       $       3,078,000.00
+##
+##
+##Press enter to quit the program
 
 ##run4
 ##Enter amount sold: 19
@@ -107,6 +119,9 @@ print("{:20}${:19,.2f}".format("Total amount:",totalAmt));
 ##
 ##                    --------------------
 ##Total amount:       $              28.73
+##
+##
+##Press enter to quit the program
 
 ##run5
 ##Enter amount sold: 100
@@ -127,3 +142,6 @@ print("{:20}${:19,.2f}".format("Total amount:",totalAmt));
 ##
 ##                    --------------------
 ##Total amount:       $             990.00
+##
+##
+##Press enter to quit the program
