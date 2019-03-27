@@ -74,7 +74,7 @@ def get_sales():
 	return float(input("Input sales: "))
 	
 def get_advanced_pay():
-	return float(input("Input advanced pay: "))
+	return float(input("Input advanced pay or 0 if no advanced pay was given: "))
 
 def determine_comm_rate(s):
 	if s < 10000.00:
@@ -101,7 +101,7 @@ def main():
 	pay = sales*comm_rate - advanced_pay
 	
 	#Display the amount of pay.
-	print("They pay is ${:.2f}".format(pay))
+	print("The pay is ${:.2f}".format(pay))
 	
 	#Determine whether the pay is negative
 	if pay < 0:
